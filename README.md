@@ -1,6 +1,6 @@
 # CAEP — Centro Acadêmico de Engenharia de Produção
 
-Site institucional estático do Centro Acadêmico de Engenharia de Produção da UFMS.
+Proposta de site institucional para o CAEP, desenvolvida como protótipo. Dados demonstrativos.
 
 ## Tecnologias
 
